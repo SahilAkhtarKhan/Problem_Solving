@@ -29,6 +29,7 @@
 ##### 13- [5,3,7] --> [8,7] --> [15] current element should be grater than next element. if yes then add. remove the two elements which added & replace it with new sum.
 ##### 14- Chunked the given array into n size of subarrays.
 ##### 15- Reverse an integer.
+##### 16- Given two integer arrays nums1 and nums2, return an array of their intersection. Each element in the result must appear as many times as it shows in both arrays and you may return the result in any order.
 
 
 
