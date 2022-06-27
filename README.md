@@ -30,7 +30,8 @@
 ##### 14- Chunked the given array into n size of subarrays.
 ##### 15- Reverse an integer.
 ##### 16- Given two integer arrays nums1 and nums2, return an array of their intersection. Each element in the result must appear as many times as it shows in both arrays and you may return the result in any order.
-
+##### 18- find the maximum & minimum no. from the given array.
+##### 19- Given an integer array and another integer element. The task is to find if the given element is present in array or not.
 
 
 
